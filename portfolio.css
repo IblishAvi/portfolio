@@ -1,0 +1,44 @@
+body{
+    background-color: blanchedalmond;
+}
+img{
+    height:500px;
+    width:800px;
+}
+ul,li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+    text-decoration: violet;
+}
+#pr{
+text-align: center;
+text-decoration:wavy;
+}
+#Bio{
+    /* background-color: rgb(166, 181, 166); */
+    color: red;
+}
+#Achi{
+    /* background-color: rgb(61, 203, 156); */
+    color: blueviolet;
+}
+#book
+{
+    /* background-color:rgb(168, 171, 177) ; */
+    color: green;
+}
+nav{
+    /* background-color: rgb(81, 71, 179); */
+}
